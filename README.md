@@ -1,2 +1,3 @@
 # Comparador-de-Idade
-Neste projeto eu fiz um comparador de idades em C++
+Neste projeto eu fiz vários exercícios em C++ para praticar 
+:)
